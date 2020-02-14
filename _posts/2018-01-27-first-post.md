@@ -1,5 +1,5 @@
 ---
-title: "설아바보"
+title: "테스트중입니다."
 date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
@@ -7,13 +7,18 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
+
+
+<center> test </center>
+
 Jekyll also offers powerful support for code snippets:
 
-​```python
+```python
 def print_hi(name):
   print("hello", name)
 print_hi('Tom')
 ​```
+```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
