@@ -9,8 +9,9 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 
 
-<center> test </center>
+![이미지](./image/tttttasd.jpg)
 
+<center> test </center>
 Jekyll also offers powerful support for code snippets:
 
 ```python
