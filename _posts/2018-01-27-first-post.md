@@ -11,7 +11,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 ![이미지](./image/tttttasd.jpg)
 
-![](C:\Users\dp-smsw\Desktop\tttt\image\tttttasd.jpg)
+
 
 <center> test </center>
 Jekyll also offers powerful support for code snippets:
