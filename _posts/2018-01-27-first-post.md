@@ -9,7 +9,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 
 
-![이미지](./image/tttttasd.jpg)
+![이미지](/image/tttttasd.jpg)
 
 
 
